@@ -1,0 +1,14 @@
+{
+  "version": "1.5.0",
+  "compilerOptions": {
+    "target": "es5",
+    "module": "system",
+    "watch": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "outDir": "public/dist"
+  },
+  "files": [
+    "public/app/**/*.ts"
+  ]
+}
