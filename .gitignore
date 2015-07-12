@@ -1,4 +1,4 @@
 node_modules
-public/app/assets/bower_components
-public/app/assets/dist
+public/assets/bower_components
+public/dist
 typings

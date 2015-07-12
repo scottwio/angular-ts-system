@@ -1,1 +1,0 @@
-{"version":3,"file":"about.controller.js","sourceRoot":"","sources":["../../../app/components/about/about.controller.ts"],"names":["AboutController","AboutController.constructor"],"mappings":"AAAA;IAGCA;QACCC,IAAIA,CAACA,QAAQA,GAAGA,CAACA,CAACA;QAClBA,IAAIA,CAACA,IAAIA,GAAGA,OAAOA,CAACA;IACrBA,CAACA;IACFD,sBAACA;AAADA,CAACA,AAPD,IAOC;AAGD,kBAAe,eAAe,CAAC"}
