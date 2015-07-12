@@ -1,8 +1,8 @@
 // from public
-// tsc --watch --sourceMap --outDir dist --module system -t es5 app/**/*.ts
+// tsc --watch --sourceMap --outDir dist --module commonjs -t es5 app/**/*.ts
 // jspm bundle-sfx dist/app dist/bundle.js -m
- 
-/// <reference path="../typings/tsd.d.ts" />
+
+/// <reference path="../../typings/tsd.d.ts" />
 
 // Globals
 import globalAngular from 'angular';
