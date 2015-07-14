@@ -17,5 +17,4 @@ function config($stateProvider, $urlRouterProvider) {
 		});
 }
 
-
 export default homeRouterModule;

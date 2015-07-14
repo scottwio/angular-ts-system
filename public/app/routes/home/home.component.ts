@@ -8,7 +8,7 @@ var homeComponentModule = angular.module('homeComponentModule', [
 		controllerAs: 'vm',
 		scope: {},
 		bindToController: true,
-		controller: class HomeController {
+		controller: class {
 			name: string;
 			constructor() {
 				this.name = 'home';

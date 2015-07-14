@@ -13,6 +13,6 @@ var navbarComponentModule = angular.module('navbarComponentModule',[
 			}
 		}
 	};
-}
+});
 
 export default navbarComponentModule;
